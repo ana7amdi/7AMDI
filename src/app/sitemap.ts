@@ -7,13 +7,13 @@ function formatDate(date: Date) {
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const posts = allPosts.map(({ slug }) => ({
-    url: `https://7madi.vercel.app/writing/${slug}`,
+    url: `https://ana7amdi.vercel.app/writing/${slug}`,
     lastModified: formatDate(new Date())
   }));
 
 
   const routes = ['', '/now', '/writing'].map((route) => ({
-    url: `https://7madi.vercel.app${route}`,
+    url: `https://ana7amdi.vercel.app${route}`,
     lastModified: formatDate(new Date())
   }));
 

@@ -7,7 +7,7 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/private/'
     },
-    sitemap: 'https://7madi.vercel.app/sitemap.xml',
-    host: 'https://7madi.vercel.app'
+    sitemap: 'https://ana7amdi.vercel.app/sitemap.xml',
+    host: 'https://ana7amdi.vercel.app'
   };
 }

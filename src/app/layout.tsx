@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     default: '7amdi',
     template: '%s'
   },
-  metadataBase: new URL('https://7madi.vercel.app'),
+  metadataBase: new URL('https://ana7amdi.vercel.app'),
   creator: '7amdi',
   description:
     'ana 7amdi ana mangol ana apah ana 7amdi ana mangol ana apah  ana 7amdi ana mangol ana apah .',
@@ -26,13 +26,13 @@ export const metadata: Metadata = {
     title: '7amdi',
     description:
       'ana 7amdi ana mangol ana apah ana 7amdi ana mangol ana apah  ana 7amdi ana mangol ana apah .',
-    url: 'https://7madi.vercel.app',
+    url: 'https://ana7amdi.vercel.app',
     siteName: '7amdi',
     locale: 'en-US',
     type: 'website',
     images: [
       {
-        url: 'https://7madi.vercel.app/og.jpeg',
+        url: 'https://ana7amdi.vercel.app/og.jpeg',
         height: 1200,
         width: 1200,
         alt: 'Black background image'

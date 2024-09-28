@@ -8,7 +8,7 @@ export const pages = [
 
 export const contactLinks = [
   {
-    label: '@3axi9lfrit',
+    label: '@7amdi911',
     href: 'https://instagram.com/7amdi911',
     ariaLabel: 'instagram profile'
   },

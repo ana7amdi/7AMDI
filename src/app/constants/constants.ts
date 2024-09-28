@@ -9,7 +9,7 @@ export const pages = [
 export const contactLinks = [
   {
     label: '@3axi9lfrit',
-    href: 'https://instagram.com/3axi9lfrit',
+    href: 'https://instagram.com/7amdi911',
     ariaLabel: 'instagram profile'
   },
   {
@@ -19,7 +19,7 @@ export const contactLinks = [
   },
   {
     label: 'Email',
-    href: 'mailto:apah@gmail.com',
+    href: 'mailto:apah7amdi@gmail.com',
     ariaLabel: 'email address'
   }
 ];

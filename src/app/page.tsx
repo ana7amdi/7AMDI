@@ -15,9 +15,7 @@ export default function Home() {
       </AnimateEnter>
       <AnimateEnter delay={0.6}>
         <section className="mb-6 space-y-6">
-          <p>
-I'm 16yo I don't have much to do in life. I'm bored and tired. Don't ask me about my life it's a mess. I mostly sleep or play Brawl Stars. I spend most of my time on Instagram cause I have no life.
-          </p>
+<p>I'm 16yo I don't have much to do in life. I'm bored and tired. Don't ask me about my life, it's a mess. I mostly sleep or play Brawl Stars. I spend most of my time on Instagram cause I have no life.</p>
         </section>
       </AnimateEnter>
       <AnimateEnter delay={0.8}>

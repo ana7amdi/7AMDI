@@ -16,8 +16,21 @@ export default function Home() {
       <AnimateEnter delay={0.6}>
         <section className="mb-6 space-y-6">
           <p>
-            salam ana smiyti mohamed wla 7amdi mhm ana mangol
-            apah apah apah.
+            #
+
+Salam ana 7 amdi wla 7 madi wla mohamed wkay3to 3 liya chi w7din ra chel7 t9ol ana b7di li chl7 hhhhhggggggghshhghghg
+
+Idk mnin jbti lien walakin aji n3awdlkk
+
+Ana 7 amdi 3n di 16 3 am mn dakhla tzadit fswira(ah ana chel7 hhhhhggggggghshhghghg)
+
+Mhm ma3ndi maydar fhad l7ayat ra 3 aych w makan7mlx kri matswlnixh 3 lah
+
+7 yati kolha l97ba mha m7wiya w aghlb la9t dyali ya kann3s ya kanl3b brawl stars hhhhhggggggghshhghghg
+
+Aghlb lw9t dyali kandwzo f Instagram 7 it ma3ndix 7 ayat
+
+Safi 3 yit mn lktaba bn8.
           </p>
         </section>
       </AnimateEnter>

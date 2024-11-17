@@ -11,11 +11,11 @@ export default function Home() {
   return (
     <Container>
       <AnimateEnter delay={0.4}>
-        <Heading className="mb-6">HELLO I&aposm 7amdi</Heading>
+        <Heading className="mb-6">SALAM ANA 7AMDI</Heading>
       </AnimateEnter>
       <AnimateEnter delay={0.6}>
         <section className="mb-6 space-y-6">
-<p>I&aposm 16yo I don&apost have much to do in life. I&aposm bored and tired. Don&apost ask me about my life it&aposs a mess. I mostly sleep or play Brawl Stars. I spend most of my time on Instagram cause\ I have no life.</p>
+<p>3NDI 16 3AM MN DAKHLA W MA3NX 7AYAT + MAKAN7MLX KRI WBLA MADKHL L WRITING RAH MAKANKTB WALO HHHHHGGGGGGGHSHHGHGHG.</p>
         </section>
       </AnimateEnter>
       <AnimateEnter delay={0.8}>

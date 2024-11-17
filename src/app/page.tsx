@@ -11,26 +11,12 @@ export default function Home() {
   return (
     <Container>
       <AnimateEnter delay={0.4}>
-        <Heading className="mb-6">7amdi</Heading>
+        <Heading className="mb-6">HELLO I'm 7amdi</Heading>
       </AnimateEnter>
       <AnimateEnter delay={0.6}>
         <section className="mb-6 space-y-6">
           <p>
-            #
-
-Salam ana 7 amdi wla 7 madi wla mohamed wkay3to 3 liya chi w7din ra chel7 t9ol ana b7di li chl7 hhhhhggggggghshhghghg
-
-Idk mnin jbti lien walakin aji n3awdlkk
-
-Ana 7 amdi 3n di 16 3 am mn dakhla tzadit fswira(ah ana chel7 hhhhhggggggghshhghghg)
-
-Mhm ma3ndi maydar fhad l7ayat ra 3 aych w makan7mlx kri matswlnixh 3 lah
-
-7 yati kolha l97ba mha m7wiya w aghlb la9t dyali ya kann3s ya kanl3b brawl stars hhhhhggggggghshhghghg
-
-Aghlb lw9t dyali kandwzo f Instagram 7 it ma3ndix 7 ayat
-
-Safi 3 yit mn lktaba bn8.
+I'm 16yo I don't have much to do in life. I'm bored and tired. Don't ask me about my life it's a mess. I mostly sleep or play Brawl Stars. I spend most of my time on Instagram cause I have no life.
           </p>
         </section>
       </AnimateEnter>

@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <Container>
       <AnimateEnter delay={0.4}>
-        <Heading className="mb-6">HELLO I'm 7amdi</Heading>
+        <Heading className="mb-6">HELLO I&aposm 7amdi</Heading>
       </AnimateEnter>
       <AnimateEnter delay={0.6}>
         <section className="mb-6 space-y-6">

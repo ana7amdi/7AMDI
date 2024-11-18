@@ -1,6 +1,5 @@
 import Container from '@/app/components/generic/Container';
 import Heading from '@/app/components/generic/Heading';
-import InlineLink from '@/app/components/ui/InlineLink';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {

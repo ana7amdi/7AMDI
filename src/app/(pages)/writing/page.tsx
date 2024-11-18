@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     title: 'Writing',
-    site: '@_gvoj',
+    site: '@7amdi911',
     creator: '@ana7amdi',
     card: 'summary',
     description: 'apah  apah  apah  apah  apah  apah  apah  apah  apah  apah  apah  apah  apah ',

@@ -52,7 +52,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     title: '7amdi',
-    site: '@_gvoj',
+    site: '@7amdi911',
     creator: '@ana7amdi',
     card: 'summary_large_image',
     description:

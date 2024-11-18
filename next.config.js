@@ -22,7 +22,7 @@ const nextConfig = {
       },
       {
         source: '/x',
-        destination: 'https://twitter.com/_gvoj',
+        destination: 'https://twitter.com/7amdi911',
         permanent: true
       },
       {

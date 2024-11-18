@@ -52,7 +52,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata | u
       ]
     },
     twitter: {
-      site: '@_gvoj',
+      site: '@7amdi911',
       card: 'summary_large_image',
       creator: '@ana7amdi',
       title,

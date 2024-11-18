@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     title: '404',
-    site: '@_gvoj',
+    site: '@7amdi911',
     card: 'summary',
     description: 'Not found.'
   }

@@ -12,7 +12,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
 
-  const routes = ['', '/now', '/writing'].map((route) => ({
+  const routes = ['', '/7amdi', '/writing'].map((route) => ({
     url: `https://ana7amdi.vercel.app${route}`,
     lastModified: formatDate(new Date())
   }));

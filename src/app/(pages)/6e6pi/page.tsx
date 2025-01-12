@@ -40,7 +40,7 @@ export default function Now() {
         </section>
               <span className="mt-12">
         <InlineLink href="/" arrowIcon hideUnderline ariaLabel="back to home page">
-          Back
+          rj3 lhome page
         </InlineLink>
       </span>
     </Container>

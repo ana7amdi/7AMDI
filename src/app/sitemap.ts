@@ -12,7 +12,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
 
-  const routes = ['', '/@6e6pi', '/writing'].map((route) => ({
+  const routes = ['', '/6e6pi', '/writing'].map((route) => ({
     url: `https://ana7amdi.vercel.app${route}`,
     lastModified: formatDate(new Date())
   }));

@@ -29,10 +29,10 @@ export default function Now() {
     <Container>
       <Heading className="mb-6">Salam ana @6e6pi</Heading>
       <section className="mb-6 space-y-6">
-        <p>ana 7amdi
-W 100% jiti mn @6e6pi
-Jiti mn laccount li kan7awel nkon fih social
-Wakha ma9dirch ms ba9i kan7awl ndir s7ab yk</p>
+        <p>ana 7amdi</p>
+<p>W 100% jiti mn @6e6pi</p>
+<p>Jiti mn laccount li kan7awel nkon fih social</p>
+ <p>Wakha ma9dirch ms ba9i kan7awl ndir s7ab yk</p>
         <p>
           Wsf mab9a fiya li yktb
         </p>

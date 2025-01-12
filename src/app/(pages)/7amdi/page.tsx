@@ -3,14 +3,14 @@ import Heading from '@/app/components/generic/Heading';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '7amdi',
-  description: 'salam ana 7amdi',
+  title: '@6e6pi',
+  description: 'salam ana 7amdi (@6e6pi)',
   openGraph: {
-    title: '7amdi',
-    description: 'salam ana 7amdi'
+    title: '@6e6pi',
+    description: 'salam ana 7amdi(@6e6pi)'
   },
   twitter: {
-    title: '7amdi',
+    title: '6e6pi',
     site: '@7amdi911',
     card: 'summary',
     description: 'salam ana 7amdi',

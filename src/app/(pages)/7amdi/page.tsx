@@ -27,12 +27,14 @@ export const metadata: Metadata = {
 export default function Now() {
   return (
     <Container>
-      <Heading className="mb-6">7amdi</Heading>
+      <Heading className="mb-6">Salam ana @6e6pi</Heading>
       <section className="mb-6 space-y-6">
-        <p>Committed to developing skill, through guiltless exploration in software and design.</p>
+        <p>ana 7amdi
+W 100% jiti mn @6e6pi
+Jiti mn laccount li kan7awel nkon fih social
+Wakha ma9dirch ms ba9i kan7awl ndir s7ab yk</p>
         <p>
-          Interactivity, typography, motion, touch, optimisations, accessibility, design&mdash;an
-          infinite canvas for creativity and opportunity.
+          Wsf mab9a fiya li yktb
         </p>
         </section>
     </Container>

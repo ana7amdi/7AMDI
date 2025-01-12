@@ -37,6 +37,11 @@ export default function Now() {
           Wsf mab9a fiya li yktb
         </p>
         </section>
+              <span className="mt-12">
+        <InlineLink href="/" arrowIcon hideUnderline ariaLabel="back to home page">
+          Back
+        </InlineLink>
+      </span>
     </Container>
   );
 }

@@ -10,7 +10,7 @@ import Providers from './providers';
 
 export const metadata: Metadata = {
   title: {
-    default: '7amdi',
+    default: '7amdi/@7ub1/@dicisuv3',
     template: '%s'
   },
   metadataBase: new URL('https://7ub1.vercel.app'),
@@ -23,11 +23,11 @@ export const metadata: Metadata = {
     apple: '/apple-touch-icon.png'
   },
   openGraph: {
-    title: '7amdi',
+    title: '7amdi/@7ub1/@dicisuv3',
     description:
-      'ana 7amdi ana mangol ana apah ana 7amdi ana mangol ana apah  ana 7amdi ana mangol ana apah .',
+      'ana 7amdi/@7ub1/@dicisuv3 ana mangol ana apah ana 7amdi ana mangol ana apah  ana 7amdi ana mangol ana apah .',
     url: 'https://7ub1.vercel.app',
-    siteName: '7amdi',
+    siteName: 'حمدي',
     locale: 'en-US',
     type: 'website',
     images: [
@@ -51,12 +51,12 @@ export const metadata: Metadata = {
     }
   },
   twitter: {
-    title: '7amdi',
+    title: '7amdi/@7ub1/@dicisuv3',
     site: '@7amdi911',
     creator: '@ana7amdi',
     card: 'summary_large_image',
     description:
-      'ana 7amdi ana mangol ana apah ana 7amdi ana mangol ana apah  ana 7amdi ana mangol ana apah .'
+      'ana 7amdi/@7ub1/@dicisuv3 ana mangol ana apah ana 7amdi ana mangol ana apah  ana 7amdi ana mangol ana apah .'
   }
 };
 

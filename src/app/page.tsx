@@ -11,11 +11,11 @@ export default function Home() {
   return (
     <Container>
       <AnimateEnter delay={0.4}>
-        <Heading className="mb-6">SALAM ANA 7AMDI</Heading>
+        <Heading className="mb-6">SALAM ANA 7amdi/@7ub1/@dicisuv3</Heading>
       </AnimateEnter>
       <AnimateEnter delay={0.6}>
         <section className="mb-6 space-y-6">
-<p>3NDI 16 3AM MN DAKHLA W MA3NDIX 7AYAT + MAKAN7MLX KRI WBLA MADKHL L WRITING RAH MAKANKTB WALO HHHHHGGGGGGGHSHHGHGHG.</p>
+<p>MAN3RF CHKON HHHHHGGGGGGGHSHHGHGHG.</p>
         </section>
       </AnimateEnter>
       <AnimateEnter delay={0.8}>

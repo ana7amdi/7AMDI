@@ -14,7 +14,7 @@ export const contactLinks = [
   },
   {
     label: 'discord',
-    href: 'https://discord.com/7ub1',
+    href: 'https://discord.com/users/1340225554699255888',
     ariaLabel: 'discord profile'
   },
   {

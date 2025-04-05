@@ -31,7 +31,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata | u
 
   const { title, publishedAt, summary, slug, image } = post;
 
-  const ogImage = image ? `https://ana7amdi.vercel.app${image}` : 'https://ana7amdi.vercel.app/og.jpeg';
+  const ogImage = image ? `https://7ub1.vercel.app${image}` : 'https://7ub1.vercel.app/og.jpeg';
 
   return {
     title,
@@ -43,7 +43,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata | u
       description: summary,
       type: 'article',
       publishedTime: publishedAt,
-      url: `https://ana7amdi.vercel.app/writing/${slug}`,
+      url: `https://7ub1.vercel.app/writing/${slug}`,
       images: [
         {
           url: ogImage,

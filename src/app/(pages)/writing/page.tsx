@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     description: 'apah  apah  apah  apah  apah  apah  apah  apah  apah  apah  apah  apah  apah ',
     images: [
       {
-        url: 'https://ana7amdi.vercel.app/og.jpeg',
+        url: 'https://7ub1.vercel.app/og.jpeg',
         height: 1200,
         width: 1200
       }

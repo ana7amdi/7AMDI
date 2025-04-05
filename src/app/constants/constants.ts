@@ -8,18 +8,18 @@ export const pages = [
 
 export const contactLinks = [
   {
-    label: '@ana7amdi',
-    href: 'https://instagram.com/ana7amdi',
+    label: '@dicisuv3',
+    href: 'https://instagram.com/dicisuv3',
     ariaLabel: 'instagram profile'
   },
   {
-    label: 'GitHub',
-    href: 'https://github.com/ana7amdi',
-    ariaLabel: 'gitHub profile'
+    label: 'discord',
+    href: 'https://discord.com/7ub1',
+    ariaLabel: 'discord profile'
   },
   {
     label: 'Email',
-    href: 'mailto:apah7amdi@gmail.com',
+    href: 'mailto:apah@tuta.io',
     ariaLabel: 'email address'
   }
 ];
